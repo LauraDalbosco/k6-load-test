@@ -15,8 +15,11 @@ O objetivo deste projeto é demonstrar como usar o **k6** para realizar testes d
 
 1. **Instalar o k6**
 
-Se você ainda não tem o **k6** instalado, siga as instruções para instalar em seu sistema:
+Se você ainda não tem o **k6** instalado, siga as instruções de instalação para o seu sistema operacional:
+
 - [Instalar k6 no macOS](https://k6.io/docs/getting-started/installation/#macos)
+- [Instalar k6 no Windows](https://k6.io/docs/getting-started/installation/#windows)
+- [Instalar k6 no Linux](https://k6.io/docs/getting-started/installation/#linux)
 
 2. **Clone o Repositório**
 
